@@ -1,0 +1,1 @@
+An Arduino-based RGB lamp that changes color in real-time based on ambient light. Uses photoresistors with color filters and PWM to create dynamic lighting. Great for smart decor, learning analog sensors, and interactive electronics projects.
